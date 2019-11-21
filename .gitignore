@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 monitor_env/
+monitor.py
 
 # Distribution / packaging
 .Python
